@@ -17,14 +17,22 @@ I love Full Stack Development and you can find me mixing it up with Machine Lear
 - Full stack website Development
 
 ## 🌱 I’m currently learning
-- Docker
-- Service Meshes
-- Docker Networks
+- Data Mining
+- Cloud Computing
+- Java Script
 
 ## 🤔 Where else you can find me?
 - Twitter : [harshallgarg](https://www.hackerrank.com/harshallgarg )
 - LeetCode: [harshallgarg](https://leetcode.com/harshallgarg/)
 - LinkedIn: [harshallgarg](https://www.linkedin.com/in/harshal-garg-18b02316b/)
+
+## 💬 Ask me about 
+ - Data Structures
+ - Algorithms 
+ - Computer Networks
+ - Operating Systems
+ - Python, CPP
+ - Terminal
 
 ## 📫 How to reach me
 - Drop me a mail at gargharshal18@gmail.com!
