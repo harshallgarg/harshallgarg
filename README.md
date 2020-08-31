@@ -22,7 +22,7 @@ I love Full Stack Development and you can find me mixing it up with Machine Lear
 - Java Script
 
 ## 🤔 Where else you can find me?
-- Twitter : [harshallgarg](https://www.hackerrank.com/harshallgarg )
+- HackerRank : [harshallgarg](https://www.hackerrank.com/harshallgarg )
 - LeetCode: [harshallgarg](https://leetcode.com/harshallgarg/)
 - LinkedIn: [harshallgarg](https://www.linkedin.com/in/harshal-garg-18b02316b/)
 
