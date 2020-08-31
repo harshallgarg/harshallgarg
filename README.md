@@ -1,5 +1,34 @@
 ### Hi there 👋
 
+## About me
+Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.
+
+I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone.
+
+I love Full Stack Development and you can find me mixing it up with Machine Learning from time to time!
+
+## 🔭 I’m currently working on
+- Machine Learning
+- Website Development 
+- Data Structures and Algorithms
+
+## 👯 I’m looking to collaborate on
+- Machine learning projects
+- Full stack website Development
+
+## 🌱 I’m currently learning
+- Docker
+- Service Meshes
+- Docker Networks
+
+## 🤔 Where else you can find me?
+- Twitter : [harshallgarg](https://www.hackerrank.com/harshallgarg )
+- LeetCode: [harshallgarg](https://leetcode.com/harshallgarg/)
+- LinkedIn: [harshallgarg](https://www.linkedin.com/in/harshal-garg-18b02316b/)
+
+## 📫 How to reach me
+- Drop me a mail at gargharshal18@gmail.com!
+
 <!--
 **harshallgarg/harshallgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
