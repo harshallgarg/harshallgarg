@@ -5,7 +5,6 @@ Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technolo
 
 I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone.
 
-I love Full Stack Development and you can find me mixing it up with Machine Learning from time to time!
 
 ## 🔭 I’m currently working on
 - Machine Learning
