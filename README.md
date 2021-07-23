@@ -16,9 +16,8 @@ I have a passion for problem solving and software development with a keen intere
 - Full stack website Development
 
 ## 🌱 I’m currently learning
-- Data Mining
-- Cloud Computing
 - Java Script
+- React
 
 ## 🤔 Where else you can find me?
 - HackerRank : [harshallgarg](https://www.hackerrank.com/harshallgarg )
@@ -31,7 +30,7 @@ I have a passion for problem solving and software development with a keen intere
  - Computer Networks
  - Operating Systems
  - Python, CPP
- - Terminal
+ 
 
 ## 📫 How to reach me
 - Drop me a mail at gargharshal18@gmail.com!
