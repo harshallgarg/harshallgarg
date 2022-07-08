@@ -1,14 +1,12 @@
 ### Hi there 👋
 
 ## About me
-Hey, I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology (SRMIST), Kattankulathur.
+I have graduated in Computer Science Engineering from SRMIST in 2022. I have a firm grasp of Data Structures and Algorithms and the fundamentals of Computer Sciences.
 
 I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone.
 
 
 ## 🔭 I’m currently working on
-- Machine Learning
-- Website Development 
 - Data Structures and Algorithms
 
 ## 👯 I’m looking to collaborate on
